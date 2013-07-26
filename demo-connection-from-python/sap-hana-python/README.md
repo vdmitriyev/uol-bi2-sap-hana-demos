@@ -1,12 +1,12 @@
 About
 =======
-Simple python scipt for connecting to the SAP HANA DB and running select query.
+Simple python script for connecting to the SAP HANA DB and running select query.
 
 General options
 ===============
 * Load sample data from '../../demo-import-csv-data/data/data_to_load_transaction.csv' to SAP HANA DB.
 
-Two options are avaliable to access the data inside SAP HANA from python.
+Two options are available to access the data inside SAP HANA from python.
 * Use delivered with SAP HANA Client API for python
 * Install additional library for ODBC (https://code.google.com/p/pyodbc/)
 
