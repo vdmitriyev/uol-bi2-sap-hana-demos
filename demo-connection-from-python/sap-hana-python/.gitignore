@@ -1,0 +1,4 @@
+*.class
+sap_hana_credentials.py
+*.pyc
+*.txt
