@@ -1,0 +1,322 @@
+ID ,AMOUNT, TRAN_DATE  ,POST_DATE ,DESCRIPTION                                               ,CATEGORY_TEXT       
+1,67,2013-01-03,2013-01-03,MUNICIPACOURT WEB 512-974-4630 TX                         ,Government Services 
+2,58.2,2013-01-11,2013-01-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+3,12.6,2013-01-15,2013-01-17,MCDONALDS F15751 LOS ANGELES NY                           ,Cafes         
+4,3.76,2013-01-15,2013-01-17,MCDONALDS F15751 LOS ANGELES NY                           ,Cafes         
+5,7.71,2013-01-15,2013-01-17,STARBUCKS N3005 LOS ANGELES CA                            ,Cafes         
+6,5.88,2013-01-15,2013-01-17,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+7,108,2013-01-17,2013-01-17,EYEDROP TUCSON TUCSON AZ                                  ,MedServices      
+8,27.9,2013-01-17,2013-01-17,FRYS ELECTRONICS #36 YUMA AZ                              ,Merchandise         
+9,3.91,2013-01-17,2013-01-17,MCDONALDS F312 SCOTTSDALE AZ                              ,Cafes         
+10,6.22,2013-01-18,2013-01-18,BURGER KING #081 YUMA AZ                                  ,Cafes         
+11,3.92,2013-01-18,2013-01-18,MCDONALDS F12 YUMA AZ                                     ,Cafes         
+12,9.8,2013-01-19,2013-01-19,PARIS PALACE TUCSON AZ                                    ,Cafes         
+13,5.22,2013-01-20,2013-01-20,BURGER KING #110 YUMA AZ                                  ,Cafes         
+14,132,2013-01-20,2013-01-20,EYEPDROP TUCSON TUCSON AZ                                 ,MedServices      
+15,24.93,2013-01-21,2013-01-21,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+16,8.7,2013-01-21,2013-01-21,PARIS PALACE TUCSON AZ                                    ,Cafes         
+17,88.9,2013-01-22,2013-01-22,COX*TUCSON COMM SERV AZ                                   ,Services            
+18,10.14,2013-01-22,2013-01-22,MCDONALDS F102 TUCSON AZ                                  ,Cafes         
+19,16.1,2013-01-23,2013-01-23,PARIS PALACE TUCSON AZ                                    ,Cafes         
+20,10.23,2013-01-24,2013-01-24,FRYS-FOOD-DRG #24 TUCSON AZ                               ,Supermarkets        
+21,2.83,2013-01-24,2013-01-24,MCDONALDS F152 TUCSON AZ                                  ,Cafes         
+22,3.6,2013-01-25,2013-01-25,BURGER KING #081 YUMA AZ                                  ,Cafes         
+23,12.4,2013-01-26,2013-01-26,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+24,9.8,2013-01-26,2013-01-26,PARIS PALACE TUCSON AZ                                    ,Cafes         
+25,32.25,2013-01-28,2013-01-28,PARIS PALACE TUCSON AZ                                    ,Cafes         
+26,22,2013-02-01,2013-02-01,CROUCHING RESTAURA PALO ALTO CA                           ,Cafes         
+27,55.08,2013-02-03,2013-02-03,FOLD RESTAURANT PALO ALTO CA                              ,Cafes         
+28,455.44,2013-02-05,2013-02-05,COMFORT INN PALO ALTO CA                                  ,Entertainment/Travel
+29,372.28,2013-02-05,2013-02-05,HERTZ CAR RENTASAN JOSE CA                                ,Entertainment/Travel
+30,35.43,2013-02-05,2013-02-05,SHEL5463750 MILPITAS CA                                   ,BioGas            
+31,52.68,2013-02-07,2013-02-07,02093 CHEVRON 055 YUMA AZ                                 ,BioGas            
+32,22.15,2013-02-09,2013-02-09,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+33,9.8,2013-02-09,2013-02-09,PARIS PALACE TUCSON AZ                                    ,Cafes         
+34,59.72,2013-02-11,2013-02-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+35,24.23,2013-02-18,2013-02-18,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+36,12.3,2013-02-19,2013-02-19,PARIS PALACE TUCSON AZ                                    ,Cafes         
+37,38.95,2013-02-20,2013-02-20,COX*TUCSON COMM SERV AZ                                   ,Services            
+38,36.28,2013-02-24,2013-02-24,VALERO 171 SCOTTSDALE AZ                                  ,BioGas            
+39,4.88,2013-02-26,2013-02-26,AAMARK YUMA AZ                                            ,Cafes         
+40,6,2013-02-26,2013-02-26,BURGER KING #081 YUMA AZ                                  ,Cafes         
+41,27.68,2013-02-28,2013-02-28,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+42,3.6,2013-03-03,2013-03-03,BURGER KING #111 YUMA AZ                                  ,Cafes         
+43,4.74,2013-03-04,2013-03-04,STARBUCKS U000745 NEW YORK NY                             ,Cafes         
+44,84,2013-03-05,2013-03-05,EMPIRE STATE BLDG NEW YORK NY                             ,Entertainment/Travel
+45,17.3,2013-03-05,2013-03-05,STARBUCKS U000355 NEW YORK NY                             ,Cafes         
+46,6,2013-03-10,2013-03-10,BURGER KING #101 YUMA AZ                                  ,Cafes         
+47,59.72,2013-03-11,2013-03-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+48,52.84,2013-03-13,2013-03-13,ARIZONA FLAGSTAFF AZ                                      ,Entertainment/Travel
+49,22.7,2013-03-14,2013-03-14,REWIKI SCOTTSDALE AZ                                      ,Cafes         
+50,7.42,2013-03-15,2013-03-17,MCDONALDS F664 YUMA AZ                                    ,Cafes         
+51,18.81,2013-03-16,2013-03-17,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+52,9.8,2013-03-17,2013-03-17,PARIS PALACE TUCSON AZ                                    ,Cafes         
+53,19.96,2013-03-19,2013-03-19,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+54,9.8,2013-03-19,2013-03-19,PARIS PALACE TUCSON AZ                                    ,Cafes         
+55,3.27,2013-03-19,2013-03-19,TARGET TUCSON AZ                                          ,Merchandise         
+56,6,2013-03-22,2013-03-22,BURGER KING #110 YUMA AZ                                  ,Cafes         
+57,36.95,2013-03-23,2013-03-23,COX*TUCSON COMM SERV AZ                                   ,Services            
+58,8.61,2013-03-23,2013-03-23,FRYS-FOOD-DRG #025 CHANDLER AZ                            ,Supermarkets        
+59,10,2013-03-23,2013-03-23,CHANDLER HEALTH CHANDLER AZ                               ,MedServices      
+60,12.8,2013-03-24,2013-03-24,TANTIMES CHANDLER AZ 000005                               ,Cafes         
+61,16,2013-03-26,2013-03-26,TOKYO STI CT                                              ,Cafes         
+62,7.73,2013-03-26,2013-03-26,STARBUCKS U00055 UNCASSVILLE CT                           ,Cafes         
+63,3.71,2013-03-27,2013-03-27,BURGER KING #999 BOSTON MA                                ,Cafes         
+64,6.76,2013-03-27,2013-03-27,MCDONALDS F473 DARIEN CT                                  ,Cafes         
+65,10,2013-03-29,2013-03-29,CHANDLER HEALTH CHANDLER AZ                               ,MedServices      
+66,5.33,2013-03-30,2013-03-30,CVS/PHARMACY CHANDLER AZ                                  ,Merchandise         
+67,9.8,2013-03-30,2013-03-30,PARIS PALACE TUCSON AZ                                    ,Cafes         
+68,35,2013-03-31,2013-03-31,CARDIO HEALTH CHANDLER AZ                                 ,MedServices      
+69,9.8,2013-04-01,2013-04-01,FRYS-FOOD-DRG #025 CHANDLER AZ                            ,Supermarkets        
+70,6,2013-04-02,2013-04-02,BURGER KING #110 YUMA AZ                                  ,Cafes         
+71,27.6,2013-04-04,2013-04-04,CITY OF PALO ALTO PARKN PALO ALTO CA                      ,Government Services 
+72,2.09,2013-04-05,2013-04-05,MCDONALDS F152 AZ                                         ,Cafes         
+73,6,2013-04-06,2013-04-06,BURGER KING #110 YUMA AZ                                  ,Cafes         
+74,6,2013-04-07,2013-04-07,BURGER KING #110 YUMA AZ                                  ,Cafes         
+75,6,2013-04-08,2013-04-08,BURGER KING #110 YUMA AZ                                  ,Cafes         
+76,6,2013-04-09,2013-04-09,BURGER KING #110 YUMA AZ                                  ,Cafes         
+77,22.34,2013-04-09,2013-04-09,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+78,13.74,2013-04-10,2013-04-10,FOOD CITY #143 TUCSON AZ                                  ,Supermarkets        
+79,62.07,2013-04-11,2013-04-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+80,5.45,2013-04-12,2013-04-12,BURGER KING #769 YUMA AZ                                  ,Cafes         
+81,12.74,2013-04-12,2013-04-12,CVS/PHARMACY YUMA AZ                                      ,Merchandise         
+82,39.25,2013-04-12,2013-04-12,USPS 037663418 CHANDLER AZ                                ,Government Services 
+83,82.38,2013-04-13,2013-04-13,ADVANTAGE INGLEWOOD CA                                    ,Entertainment/Travel
+84,24.16,2013-04-13,2013-04-13,BCD-WESTERN LOS ANGELES CA                                ,Cafes         
+85,5.45,2013-04-13,2013-04-13,N2 GREAT ST30031531 TUCSON AZ                             ,Cafes         
+86,5.4,2013-04-13,2013-04-13,STARBUCKS C00355 LOS ANGELES CA                           ,Cafes         
+87,10.71,2013-04-13,2013-04-13,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+88,12.95,2013-04-13,2013-04-13,PARIS PALACE TUCSON AZ                                    ,Cafes         
+89,60,2013-04-15,2013-04-17,PARIS PALACE TUCSON AZ                                    ,Cafes         
+90,63.92,2013-04-17,2013-04-17,FEDEX 875620 MEMPHIS TN                                   ,Services            
+91,18.3,2013-04-18,2013-04-18,53272 ASSURANCE YUMA AZ 000097                            ,Cafes         
+92,5.45,2013-04-18,2013-04-18,BURGER KING #110 YUMA AZ                                  ,Cafes         
+93,6,2013-04-19,2013-04-19,BURGER KING #110 YUMA AZ                                  ,Cafes         
+94,6.65,2013-04-19,2013-04-19,USPS 03633344 TUCSON AZ                                   ,Government Services 
+95,2.73,2013-04-20,2013-04-20,AAMARK YUMA AZ                                            ,Cafes         
+96,6.87,2013-04-20,2013-04-20,AAMARK YUMA AZ                                            ,Cafes         
+97,5.45,2013-04-21,2013-04-21,BURGER KING #110 YUMA AZ                                  ,Cafes         
+98,49.99,2013-04-22,2013-04-22,COX*TUCSON COMM SERV AZ                                   ,Services            
+99,336.29,2013-04-22,2013-04-22,EXPEDIA* 13686 800-367-3476 NV                            ,Entertainment/Travel
+100,9.8,2013-04-23,2013-04-23,PARIS PALACE TUCSON AZ                                    ,Cafes         
+101,36.1,2013-04-28,2013-04-28,FEDEX 875717 MEMPHIS TN                                   ,Services            
+102,22,2013-04-28,2013-04-28,KHAHAN RESTAURANT YUMA AZ                                 ,Cafes         
+103,24.07,2013-04-29,2013-04-29,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+104,13.95,2013-04-29,2013-04-29,USPS 03638118 TUCSON AZ                                   ,Government Services 
+105,12,2013-05-01,2013-05-01,PARIS PALACE TUCSON CA                                    ,Cafes         
+106,10.85,2013-05-02,2013-05-02,FRYS-FOOD-DRG #025 TUCSON AZ                              ,Supermarkets        
+107,23.4,2013-05-06,2013-05-06,PARIS PALACE TUCSON AZ                                    ,Cafes         
+108,6.6,2013-05-07,2013-05-07,AAMARK YUMA AZ                                            ,Cafes         
+109,69.64,2013-05-11,2013-05-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+110,8.98,2013-05-11,2013-05-11,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+111,12.95,2013-05-11,2013-05-11,PARIS PALACE TUCSON AZ                                    ,Cafes         
+112,39.24,2013-05-14,2013-05-14,AMAZON DIGITASVCS 866-216-1072 WA B85AGUUSZM              ,Merchandise         
+113,9.8,2013-05-21,2013-05-21,PARIS PALACE TUCSON AZ                                    ,Cafes         
+114,13.7,2013-05-22,2013-05-22,PARIS PALACE TUCSON AZ                                    ,Cafes         
+115,49.99,2013-05-23,2013-05-23,COX*TUCSON COMM SERV AZ                                   ,Services            
+116,32.35,2013-05-24,2013-05-24,PARIS PALACE TUCSON AZ                                    ,Cafes         
+117,6.1,2013-05-25,2013-05-25,JACK IN THE BOX 115 TUCSON AZ                             ,Cafes         
+118,72.26,2013-05-28,2013-05-28,JIFFY LUBE #20 FLAGSTAFF AZ                               ,Automotive          
+119,4.7,2013-05-28,2013-05-28,MCDONALDS F130 MAYER AZ                                   ,Cafes         
+120,23.42,2013-05-28,2013-05-28,WAL-MART STORE - #15 FLAGSTAFF AZ                         ,Merchandise         
+121,2.79,2013-05-31,2013-05-31,03077 CHEVRON 0309 FLAGSTAFF AZ                           ,BioGas            
+122,43.99,2013-06-01,2013-06-01,ENTERPRISE CAR RENTA LOS ANGELES CA                       ,Entertainment/Travel
+123,4.25,2013-06-01,2013-06-01,STARBUCKS C001101355 ALHAMBRA CA                          ,Cafes         
+124,5.45,2013-06-03,2013-06-03,GREAT STEAK & POTATO YUMA AZ                              ,Cafes         
+125,3.27,2013-06-08,2013-06-08,BURGER KING #207 YUMA AZ                                  ,Cafes         
+126,67.72,2013-06-11,2013-06-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+127,4.77,2013-06-11,2013-06-11,MCDONALDS F152 AZ                                         ,Cafes         
+128,11,2013-06-11,2013-06-11,PARIS PALACE TUCSON AZ                                    ,Cafes         
+129,9.8,2013-06-12,2013-06-12,PARIS PALACE TUCSON AZ                                    ,Cafes         
+130,23.47,2013-06-13,2013-06-13,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+131,51,2013-06-13,2013-06-13,PARIS PALACE TUCSON AZ                                    ,Cafes         
+132,7.19,2013-06-17,2013-06-17,N3 STARBUCK3531 TUCSON AZ                                 ,Cafes         
+133,53.38,2013-06-18,2013-06-18,BURLINGTON COAT FACT YUMA AZ                              ,Merchandise         
+134,13.7,2013-06-18,2013-06-18,PARIS PALACE TUCSON AZ                                    ,Cafes         
+135,12,2013-06-19,2013-06-19,BURLINGTON COAT FACT YUMA AZ                              ,Merchandise         
+136,38.91,2013-06-19,2013-06-19,FEDEX 835191636 MEMPHIS TN                                ,Services            
+137,27.6,2013-06-20,2013-06-20,CITY OF TUCSON PARKN TUCSON AZ                            ,Government Services 
+138,85.76,2013-06-20,2013-06-20,PURITANS PRIDE 800-645-1030 NY 830635                     ,Supermarkets        
+139,1959.7,2013-06-21,2013-06-21,BRITISH AIRWAYS (USD) NEW YORK IL                         ,Entertainment/Travel
+140,1950.3,2013-06-21,2013-06-21,DELTA AIRLINES ARC SAATLANTA GA GTT INTERNATIONANEW YORK N,Entertainment/Travel
+141,128.85,2013-06-22,2013-06-22,DRUGSTORE.COM DRUGSTORE.COMWA 38141                       ,Merchandise         
+142,96.87,2013-06-22,2013-06-22,WWW.FINISHLINE.COM INDIANAPOLIS IN                        ,Merchandise         
+143,48.88,2013-06-23,2013-06-23,AMAZON MKTPLACE PMTS AMZN.COM/BILLWA QCCJUUS4OF           ,Merchandise         
+144,14.27,2013-06-23,2013-06-23,AMAZON.COM AMZN.COM/BILLWA BMUUS1PR2J                     ,Merchandise         
+145,69.68,2013-06-23,2013-06-23,AMAZON.COM AMZN.COM/BILLWA XV1CUUSYGK                     ,Merchandise         
+146,49.99,2013-06-23,2013-06-23,COX*TUCSON COMM SERV 602-277-1000 AZ 40199976             ,Services            
+147,3.77,2013-06-24,2013-06-24,WHOLESOME TUCSON AZ                                       ,Cafes         
+148,6.42,2013-06-24,2013-06-24,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+149,12,2013-06-24,2013-06-24,PARIS PALACE TUCSON AZ                                    ,Cafes         
+150,23,2013-06-26,2013-06-26,KITCHEN CHANDLER AZ                                       ,Cafes         
+151,27.8,2013-06-27,2013-06-27,TARGET TUCSON AZ                                          ,Merchandise         
+152,18.44,2013-07-01,2013-07-01,GNC #033 TUCSON AZ                                        ,Supermarkets        
+153,9.82,2013-07-01,2013-07-01,N4 FOOD COU351 TUCSON AZ                                  ,Cafes         
+154,12.44,2013-07-01,2013-07-01,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+155,2.92,2013-07-01,2013-07-01,USPS 03766064418 TUCSON AZ                                ,Government Services 
+156,59.64,2013-07-11,2013-07-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+157,20,2013-07-12,2013-07-12,DELTA DUTY FREE ORLANDO FL                                ,Merchandise         
+158,12.43,2013-07-18,2013-07-18,MACO DEMONDS WA                                           ,Cafes         
+159,3.78,2013-07-18,2013-07-18,STARBUCKS C3059271 SEATTLE WA                             ,Cafes         
+160,328.7,2013-07-18,2013-07-18,US AIRWAYS037274 800-428-4322 AZ                          ,Entertainment/Travel
+161,3.41,2013-07-20,2013-07-20,WHOLEFDS TEM 10084 YUMA AZ                                ,Supermarkets        
+162,8.32,2013-07-20,2013-07-20,WHOLEFDS TEM 10084 YUMA AZ                                ,Supermarkets        
+163,17.3,2013-07-22,2013-07-22,535 ASSURCE YUMA AZ 000083                                ,Cafes         
+164,76.63,2013-07-22,2013-07-22,FIRESTONE 00249512 SCOTTSDALE AZ                          ,Automotive          
+165,3.48,2013-07-22,2013-07-22,JACK IN THE BOX TUCSON AZ                                 ,Cafes         
+166,49.99,2013-07-24,2013-07-24,COX*TUCSON COMM SERV AZ                                   ,Services            
+167,8.39,2013-07-24,2013-07-24,POTATO YUMA AZ                                            ,Cafes         
+168,2.17,2013-07-26,2013-07-26,MCDONALDS F152 AZ                                         ,Cafes         
+169,20,2013-07-28,2013-07-28,TUCSON HEALTH TUCSON AZ                                   ,MedServices      
+170,123.74,2013-07-29,2013-07-29,555 DILLARDS CA                                           ,Department Stores   
+171,92.64,2013-07-29,2013-07-29,FIRESTONE CA                                              ,Automotive          
+172,100,2013-07-29,2013-07-29,TX FITNESS AZ                                             ,Entertainment/Travel
+173,19.07,2013-07-29,2013-07-29,SUNFLOWER MARKETS CA                                      ,Supermarkets        
+174,53.93,2013-07-30,2013-07-30,NORDSTROM #038 TUCSON AZ                                  ,Department Stores   
+175,23.94,2013-07-31,2013-07-31,AMAZON MKTPLACE PMTS AMZN.COM/BILLWA H6JUUS3WQW           ,Merchandise         
+176,75,2013-08-01,2013-08-01,AMERICAN AIRLINES ARC TULSA OK EXPEDIA INC ATLANTA G      ,Entertainment/Travel
+177,20,2013-08-01,2013-08-01,TUCSON FAMILY HEALTH TUCSON AZ                            ,MedServices      
+178,25,2013-08-02,2013-08-02,AMAZON.COM AMZN.COM/BILLWA T0GTWUUSSP                     ,Merchandise         
+179,22.99,2013-08-03,2013-08-03,BUY.COM 888-328-9266 CA 61504                             ,Merchandise         
+180,39.99,2013-08-03,2013-08-03,BUY.COM 888-328-9266 CA 61498                             ,Merchandise         
+181,29.74,2013-08-03,2013-08-03,HOMEDEPOT.COM 800-430-3376 CA                             ,Merchandise         
+182,2.94,2013-08-04,2013-08-04,MCDONALDS F152 AZ                                         ,Cafes         
+183,36.99,2013-08-04,2013-08-04,SMIL- SIC TUCSON AZ                                       ,MedServices      
+184,2.17,2013-08-05,2013-08-05,MCDONALDS F152 AZ                                         ,Cafes         
+185,154.7,2013-08-06,2013-08-06,US AIRWAYS ARC TUCSON AZ EXPEDIA INC ATLANTA G            ,Entertainment/Travel
+186,37.39,2013-08-07,2013-08-07,AMAZON.COM AMZN.COM/BILLWA JPRL6UUS46                     ,Merchandise         
+187,346.98,2013-08-07,2013-08-07,US AIRWAYS ARC TUCSON AZ EXPEDIA INC ATLANTA G            ,Entertainment/Travel
+188,62.6,2013-08-11,2013-08-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+189,176.74,2013-08-12,2013-08-12,AMAZON.COM AMZN.COM/BILLWA NGFUUSKZ6V                     ,Merchandise         
+190,14,2013-08-12,2013-08-12,HAIHOAN RESTAURANT YUMA AZ                                ,Cafes         
+191,9.95,2013-08-15,2013-08-17,SUNFLOWER MARKETS CA                                      ,Supermarkets        
+192,2.09,2013-08-16,2013-08-17,SNAPFISH 4027733 CA                                       ,Services            
+193,29.76,2013-08-17,2013-08-17,AMAZON.COM AMZN.COM/BILLWA QHSDUUSSVZ                     ,Merchandise         
+194,30,2013-08-17,2013-08-17,AMAZON.COM AMZN.COM/BILLWA UBUUSOOZQX                     ,Merchandise         
+195,35,2013-08-17,2013-08-17,PARIS PALACE TUCSON AZ                                    ,Cafes         
+196,49.99,2013-08-18,2013-08-18,AMAZON.COM AMZN.COM/BILLWA DSUUSFPSP8S                    ,Merchandise         
+197,17.15,2013-08-19,2013-08-19,PARIS PALACE TUCSON AZ                                    ,Cafes         
+198,59.27,2013-08-20,2013-08-20,GNC #092 TUCSON AZ                                        ,Supermarkets        
+199,26.49,2013-08-20,2013-08-20,TARGET YUMA AZ                                            ,Merchandise         
+200,45,2013-08-21,2013-08-21,"AWINSON, GILBERT AZ                                       ",Services            
+201,4.36,2013-08-22,2013-08-22,AAMARK YUMA AZ                                            ,Cafes         
+202,49.99,2013-08-23,2013-08-23,COX*TUCSON COMM SERV AZ                                   ,Services            
+203,2.73,2013-08-24,2013-08-24,AAMARK YUMA AZ                                            ,Cafes         
+204,4.91,2013-08-24,2013-08-24,AAMARK YUMA AZ                                            ,Cafes         
+205,44.02,2013-08-25,2013-08-25,0203 CHEVRON 0206 YUMA AZ                                 ,BioGas            
+206,10,2013-08-25,2013-08-25,PAYPA*SKYPE 402733 CA                                     ,Services            
+207,19.4,2013-08-26,2013-08-26,PARIS PALACE TUCSON AZ                                    ,Cafes         
+208,5.07,2013-08-27,2013-08-27,AAMARK YUMA AZ                                            ,Cafes         
+209,3.6,2013-08-27,2013-08-27,BURGER KING #110 YUMA AZ                                  ,Cafes         
+210,23.35,2013-08-28,2013-08-28,NOODLE CHANDLER AZ                                        ,Cafes         
+211,20.26,2013-08-29,2013-08-29,AMAZON.COM AMZN.COM/BILLWA H2CUUSANUA                     ,Merchandise         
+212,6.65,2013-08-29,2013-08-29,BURGER KING #081 YUMA AZ                                  ,Cafes         
+213,10.92,2013-08-29,2013-08-29,BESTBUY COM 457733 CA                                     ,Services            
+214,2.73,2013-08-31,2013-08-31,AAMARK YUMA AZ                                            ,Cafes         
+215,2.94,2013-08-31,2013-08-31,BURGER KING #081 YUMA AZ                                  ,Cafes         
+216,19.17,2013-09-01,2013-09-01,KHAI HOAN RESTAURANT YUMA AZ                              ,Cafes         
+217,40,2013-09-02,2013-09-02,AMAZON.COM AMZN.COM/BILLWA KP7UUSGJYR                     ,Merchandise         
+218,5.61,2013-09-03,2013-09-03,AAMARK YUMA AZ                                            ,Cafes         
+219,8.99,2013-09-03,2013-09-03,MCDONALDS F7601 ANCHORAGE AK                              ,Cafes         
+220,8,2013-09-04,2013-09-04,INFLIGHT AIRWAYS TUCSON AZ                                ,Entertainment/Travel
+221,9.95,2013-09-08,2013-09-08,"BWI*BOINGO WIRELESS 800-880-4117 CA T1,A77BB1,25B         ",Services            
+222,3.15,2013-09-08,2013-09-08,FRED MEYER #068 EAGLE RIVER AK                            ,Supermarkets        
+223,7.84,2013-09-10,2013-09-10,AAMARK YUMA AZ                                            ,Cafes         
+224,59.6,2013-09-11,2013-09-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+225,2.73,2013-09-12,2013-09-12,AAMARK YUMA AZ                                            ,Cafes         
+226,3.76,2013-09-12,2013-09-12,AAMARK YUMA AZ                                            ,Cafes         
+227,33.12,2013-09-12,2013-09-12,CVS/PHARMACY SCOTTSDALE AZ                                ,Merchandise         
+228,33.12,2013-09-12,2013-09-12,CVS/PHARMACY SCOTTSDALE AZ                                ,Merchandise         
+229,25,2013-09-12,2013-09-12,PARIS PALACE TUCSON AZ                                    ,Cafes         
+230,54.24,2013-09-12,2013-09-12,USPS 0376606324418 SCOTTSDALE AZ                          ,Government Services 
+231,16.25,2013-09-12,2013-09-12,WALGREENS #418 SCOTTSDALE AZ                              ,Merchandise         
+232,16.25,2013-09-12,2013-09-12,WALGREENS #406 SCOTTSDALE AZ                              ,Merchandise         
+233,2.09,2013-09-15,2013-09-17,MCDONALDS F152 AZ                                         ,Cafes         
+234,18.8,2013-09-16,2013-09-17,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+235,9.93,2013-09-17,2013-09-17,FIVE GUYS-AZ # 03 YUMA AZ                                 ,Cafes         
+236,20,2013-09-18,2013-09-18,HODO RESTAURANT MESA AZ                                   ,Cafes         
+237,2.73,2013-09-19,2013-09-19,AAMARK YUMA AZ                                            ,Cafes         
+238,3.76,2013-09-19,2013-09-19,AAMARK YUMA AZ                                            ,Cafes         
+239,382.95,2013-09-19,2013-09-19,LORDANDTAYLOR.COM 800-223-7440 NY 1                       ,Merchandise         
+240,2.17,2013-09-19,2013-09-19,MCDONALDS F152 AZ                                         ,Cafes         
+241,2.17,2013-09-20,2013-09-20,MCDONALDS F152 AZ                                         ,Cafes         
+242,6.97,2013-09-21,2013-09-21,MCDONALDS F11664 YUMA AZ                                  ,Cafes         
+243,2.17,2013-09-22,2013-09-22,MCDONALDS F152 AZ                                         ,Cafes         
+244,49.99,2013-09-23,2013-09-23,COX*TUCSON COMM SERV 602-277-1000 AZ 42058440             ,Services            
+245,20,2013-09-23,2013-09-23,PAOHING RESTAURAN TUCSON AZ                               ,Cafes         
+246,2.73,2013-09-24,2013-09-24,AAMARK YUMA AZ                                            ,Cafes         
+247,3.76,2013-09-24,2013-09-24,AAMARK YUMA AZ                                            ,Cafes         
+248,2.29,2013-09-25,2013-09-25,IKEA YUMA YUMA AZ                                         ,Merchandise         
+249,9.24,2013-09-25,2013-09-25,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+250,20.3,2013-09-25,2013-09-25,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+251,3.76,2013-09-26,2013-09-26,AAMARK YUMA AZ                                            ,Cafes         
+252,2.63,2013-09-26,2013-09-26,BURGER KING #110 YUMA AZ                                  ,Cafes         
+253,2.17,2013-09-26,2013-09-26,MCDONALDS F152 AZ                                         ,Cafes         
+254,7.63,2013-09-28,2013-09-28,AAMARK YUMA AZ                                            ,Cafes         
+255,5.01,2013-09-29,2013-09-29,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+256,8.74,2013-09-29,2013-09-29,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+257,14.62,2013-09-30,2013-09-30,KHAI HOAN RESTAURANT YUMA AZ                              ,Cafes         
+258,69.74,2013-10-01,2013-10-01,902 DILLARDS-FASHION SQR SCOTTSDALE AZ                    ,Department Stores   
+259,7.84,2013-10-01,2013-10-01,AAMARK YUMA AZ                                            ,Cafes         
+260,40,2013-10-01,2013-10-01,PARIS PALACE TUCSON AZ                                    ,Cafes         
+261,163.4,2013-10-01,2013-10-01,US AIRWAYS037244996 800-428-4322 AZ                       ,Entertainment/Travel
+262,6.73,2013-10-02,2013-10-02,STARBUCKS N30058093531 LOS ANGELES CA                     ,Cafes         
+263,2.73,2013-10-03,2013-10-03,AAMARK YUMA AZ                                            ,Cafes         
+264,3.76,2013-10-03,2013-10-03,AAMARK YUMA AZ                                            ,Cafes         
+265,19,2013-10-03,2013-10-03,GROUPON INC. CHICAGO IL                                   ,Services            
+266,2.17,2013-10-03,2013-10-03,MCDONALDS F152 AZ                                         ,Cafes         
+267,30.73,2013-10-03,2013-10-03,REI.COM 800-4264840 SUMNER WA                             ,Merchandise         
+268,298.16,2013-10-04,2013-10-04,AZ MOTOR VEHICLE DIV WEB TUCSON AZ                        ,Government Services 
+269,2.17,2013-10-04,2013-10-04,MCDONALDS F152 AZ                                         ,Cafes         
+270,5.22,2013-10-05,2013-10-05,BURGER KING #081 YUMA AZ                                  ,Cafes         
+271,2.7,2013-10-06,2013-10-06,MCDONALDS F152 AZ                                         ,Cafes         
+272,2.17,2013-10-07,2013-10-07,MCDONALDS F152 AZ                                         ,Cafes         
+273,22.75,2013-10-07,2013-10-07,PARIS PALACE TUCSON AZ                                    ,Cafes         
+274,20.01,2013-10-08,2013-10-08,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+275,33,2013-10-08,2013-10-08,PARIS PALACE TUCSON AZ                                    ,Cafes         
+276,9.49,2013-10-09,2013-10-09,BURGER KING304031 LAS VEGAS NV                            ,Cafes         
+277,2.17,2013-10-10,2013-10-10,MCDONALDS F152 AZ                                         ,Cafes         
+278,4.01,2013-10-10,2013-10-10,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+279,62.46,2013-10-11,2013-10-11,ATTM*265011 ALPHARETTA GA                                 ,Services            
+280,2.17,2013-10-11,2013-10-11,MCDONALDS F152 AZ                                         ,Cafes         
+281,2.17,2013-10-12,2013-10-12,MCDONALDS F152 AZ                                         ,Cafes         
+282,2.17,2013-10-13,2013-10-13,MCDONALDS F152 AZ                                         ,Cafes         
+283,2.94,2013-10-14,2013-10-14,MCDONALDS F152 AZ                                         ,Cafes         
+284,20,2013-10-15,2013-10-17,IHOP 110 YUMA AZ 000292                                   ,Cafes         
+285,4.63,2013-10-16,2013-10-17,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+286,12.42,2013-10-16,2013-10-17,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+287,2.73,2013-10-17,2013-10-17,AAMARK YUMA AZ                                            ,Cafes         
+288,3.76,2013-10-17,2013-10-17,AAMARK YUMA AZ                                            ,Cafes         
+289,7.41,2013-10-18,2013-10-18,MCDONALDS F11664 YUMA AZ                                  ,Cafes         
+290,2.09,2013-10-18,2013-10-18,MCDONALDS F152 AZ                                         ,Cafes         
+291,2.73,2013-10-19,2013-10-19,AAMARK YUMA AZ                                            ,Cafes         
+292,3.76,2013-10-19,2013-10-19,AAMARK YUMA AZ                                            ,Cafes         
+293,2.17,2013-10-19,2013-10-19,MCDONALDS F152 AZ                                         ,Cafes         
+294,2.17,2013-10-21,2013-10-21,MCDONALDS F152 AZ                                         ,Cafes         
+295,12.85,2013-10-21,2013-10-21,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+296,2.97,2013-10-23,2013-10-23,BURGER KING #110 YUMA AZ                                  ,Cafes         
+297,49.99,2013-10-23,2013-10-23,COX*TUCSON COMM SERV 602-277-1000 AZ 42647980             ,Services            
+298,19.21,2013-10-25,2013-10-25,KHAI HOAN RESTAURANT YUMA AZ                              ,Cafes         
+299,2.17,2013-10-25,2013-10-25,MCDONALDS F152 AZ                                         ,Cafes         
+300,15,2013-10-26,2013-10-26,KHAI RESTAURANT YUMA AZ                                   ,Cafes         
+301,6.83,2013-10-27,2013-10-27,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+302,6.92,2013-10-27,2013-10-27,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+303,3.19,2013-10-29,2013-10-29,SEAWORLD-FOOD SVC ORLANDO FL                              ,Entertainment/Travel
+304,47.91,2013-10-30,2013-10-30,TASTY WOK OF ORLANDO ORLANDO FL                           ,Cafes         
+305,7.67,2013-10-30,2013-10-30,USF STARBUC028852 ORLANDO FL                              ,Cafes         
+306,17.37,2013-10-31,2013-10-31,RUBY TUESDAY ORLANDO FL                                   ,Cafes         
+307,2.94,2013-11-01,2013-11-01,MCDONALDS F152 AZ                                         ,Cafes         
+308,132.79,2013-11-01,2013-11-01,TOY MESA AZ                                               ,Automotive          
+309,10,2013-11-01,2013-11-01,TAIWAN FOOD EXPRESS MESA AZ                               ,Cafes         
+310,9.24,2013-11-02,2013-11-02,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+311,3.71,2013-11-03,2013-11-03,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+312,6.7,2013-11-03,2013-11-03,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+313,2.94,2013-11-04,2013-11-04,MCDONALDS F152 AZ                                         ,Cafes         
+314,9.24,2013-11-04,2013-11-04,SUPER  MARKET TUCSON AZ                                   ,Supermarkets        
+315,2.73,2013-11-06,2013-11-06,AAMARK YUMA AZ                                            ,Cafes         
+316,5.46,2013-11-06,2013-11-06,AAMARK YUMA AZ                                            ,Cafes         
+317,34.45,2013-11-07,2013-11-07,PARIS PALACE TUCSON AZ                                    ,Cafes         
+318,2.17,2013-11-08,2013-11-08,MCDONALDS F152 AZ                                         ,Cafes         
+319,2.64,2013-11-09,2013-11-09,AAMARK YUMA AZ                                            ,Cafes         
+320,2.17,2013-11-09,2013-11-09,MCDONALDS F152 AZ                                         ,Cafes         
+321,440,2013-11-10,2013-11-10,DDS PLLC YUMA AZ                                          ,MedServices      
