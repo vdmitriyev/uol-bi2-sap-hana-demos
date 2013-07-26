@@ -1,0 +1,139 @@
+#!/usr/bin/env bash
+
+#
+# Command script.
+#
+# @author Viktor Dmitriyev
+#
+# JAVA_HOME must be set to the version of JAVA that is needed.
+#
+#
+
+##############################
+#	Functions
+##############################
+
+##
+# Help function.
+##
+function func_print_help {
+	echo ""
+	echo "Help:"
+	echo "To compile code use : ./run_linux compile"
+	echo "To run code use : ./run_linux run or just ./run_linux"
+	echo "To clean old .class run : ./run_linux clean"
+	echo ""
+}
+
+##
+# Printing note about script.
+##
+function func_print_note_about_script {
+	echo "#####################################"
+	#echo "!!!NOTES!!!"
+	echo "Using java at: $JAVA"
+	echo "Using javac at : $JAVAC"	
+	if [ -z $ACTION ]; then
+		$ACTION = "run"
+	fi
+	echo "Action to execute : $ACTION" 
+	
+	echo "#####################################"
+}
+
+##
+# Function that compiles source code
+##
+function func_compile_src {
+    echo "# Compiling source code ..."
+	echo "Running command : $JAVAC -classpath \"$CLASSPATH\" $SRC_CLASS"
+	exec "$JAVAC" -classpath "$CLASSPATH" $SRC_CLASS    
+}
+
+##
+# Function that runs compiled source code
+##
+function func_run_src {
+	echo "Running compiled code..."
+	echo "Running command : $JAVA -classpath \"$CLASSPATH\" $CLASS"
+	exec "$JAVA" -classpath "$CLASSPATH" $CLASS
+}
+
+##
+# Clean (delete) .class files
+##
+function func_clean_compiled_files {
+	local DEL_FILE="SapHanaConnectionTest.class"
+	if [ -e $DEL_FILE ]; then
+		echo "File \"$DEL_FILE\" exists. Removing it."
+		echo "Running command: rm $DEL_FILE"
+		exec "rm" $DEL_FILE
+	else 
+		echo "File \"$DEL_FILE\" does not exists"
+	fi 
+}
+
+##############################
+#	Starting executing bash code.
+##############################
+
+# Checking for the JAVA_HOME variable
+
+if [ "$JAVA_HOME" = "" ]; then
+  JAVA=`which java`
+  JAVAC=`which javac`
+  if [ ! -x $JAVA ]; then
+    echo "Error: java not found, set JAVA_HOME or add java to PATH."
+    exit 1
+  fi
+  if [ ! -x $JAVAC ]; then
+    echo "Error: javac not found, set JAVA_HOME or add java to PATH or install JDK."
+    exit 1
+  fi
+
+else
+  JAVA=$JAVA_HOME/bin/java
+  JAVAC=$JAVA_HOME/bin/javac
+fi
+
+# Printing note about script
+ACTION=$1
+func_print_note_about_script
+
+# Add SAP HANA linux driver jar to CLASSPATH
+CLASSPATH=${CLASSPATH}:drivers/linux_x64/ngdbc.jar;
+
+# Figure out which class must be compiled
+SRC_CLASS='SapHanaConnectionTest.java'
+
+# Figure out which class must be run
+CLASS='SapHanaConnectionTest'
+
+#
+# Checking passed arguments
+#
+
+# Printing help
+if [ "$ACTION" = "help" ]; then
+	func_print_help
+	exit 1
+fi
+
+# Compile the code
+if [ "$ACTION" = "compile" ]; then
+	func_compile_src
+fi
+
+# Run the code
+if [ "$ACTION" = "run" ]; then
+	func_run_src
+else
+	if [ "$ACTION" = "" ]; then
+		func_run_src
+	fi
+fi
+
+# Clean (delete) .class files
+if [ "$ACTION" = "clean" ]; then
+	func_clean_compiled_files
+fi
