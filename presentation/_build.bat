@@ -1,0 +1,5 @@
+del 2013_07_26_Course_BI_external_connection_to_sap_hana.pdf
+call _truncate.bat
+call _compile.bat
+call _truncate.bat
+call 2013_07_26_Course_BI_external_connection_to_sap_hana.pdf

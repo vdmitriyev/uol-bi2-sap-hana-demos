@@ -1,0 +1,276 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% 26/05/2010
+% Created by by Bill Lampos
+%
+% 26/07/2013
+%	Used by Viktor Dmitriyev
+%
+% Feel free to use (copy) the structure (latex formatting source code)
+% but not the content of this document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[compress,red,t]{beamer}
+%\documentclass[hyperref={pdfpagelabels=false}]{beamer}
+
+\mode<presentation>
+
+% The Beamer class comes with a number of default slide themes
+% which change the colors and layouts of slides. Below this is a list
+% of all the themes, uncomment each in turn to see what they look like.
+
+%\usetheme{default}
+%\usetheme{AnnArbor}
+%\usetheme{Antibes}
+%\usetheme{Bergen}
+%\usetheme{Berkeley}
+%\usetheme{Berlin}
+%\usetheme{Boadilla}
+%\usetheme{CambridgeUS}
+%\usetheme{Copenhagen}
+%\usetheme{Darmstadt}
+%\usetheme{Dresden}
+%\usetheme{Frankfurt}
+%\usetheme{Goettingen}
+%\usetheme{Hannover}
+%\usetheme{Ilmenau}
+%\usetheme{JuanLesPins}
+%\usetheme{Luebeck}
+%\usetheme{Madrid}
+%\usetheme{Malmoe}
+%\usetheme{Marburg}
+%\usetheme{Montpellier}
+%\usetheme{PaloAlto}
+%\usetheme{Pittsburgh}
+%\usetheme{Rochester}
+%\usetheme{Singapore}
+\usetheme{Szeged}
+%\usetheme{Warsaw}
+
+
+% As well as themes, the Beamer class has a number of color themes
+% for any slide theme. Uncomment each of these in turn to see how it
+% changes the colors of your current slide theme.
+
+\usecolortheme{default}
+%\usecolortheme{albatross}
+%\usecolortheme{beaver}
+%\usecolortheme{beetle}
+%\usecolortheme{crane}
+%\usecolortheme{dolphin}
+%\usecolortheme{dove}
+%\usecolortheme{fly}
+%\usecolortheme{lily}
+%\usecolortheme{orchid}
+%\usecolortheme{rose}
+%\usecolortheme{seagull}
+%\usecolortheme{seahorse}
+%\usecolortheme{whale}
+%\usecolortheme{wolverine}
+
+
+\usefonttheme{structurebold}
+% font themes: default, professionalfonts, serif, structurebold, structureitalicserif, structuresmallcapsserif
+
+% pdf is displayed in full screen mode automatically
+%\hypersetup{pdfpagemode=FullScreen}
+
+% define your own colours:
+\definecolor{Red}{rgb}{1,0,0}
+\definecolor{Blue}{rgb}{0,0,1}
+\definecolor{Green}{rgb}{0,1,0}
+\definecolor{magenta}{rgb}{1,0,.6}
+\definecolor{lightblue}{rgb}{0,.5,1}
+\definecolor{lightpurple}{rgb}{.6,.4,1}
+\definecolor{gold}{rgb}{.6,.5,0}
+\definecolor{orange}{rgb}{1,0.4,0}
+\definecolor{hotpink}{rgb}{1,0,0.5}
+\definecolor{newcolor2}{rgb}{.5,.3,.5}
+\definecolor{newcolor}{rgb}{0,.3,1}
+\definecolor{newcolor3}{rgb}{1,0,.35}
+\definecolor{darkgreen1}{rgb}{0, .35, 0}
+\definecolor{darkgreen}{rgb}{0, .6, 0}
+\definecolor{darkred}{rgb}{.75,0,0}
+
+\xdefinecolor{olive}{cmyk}{0.64,0,0.95,0.4}
+\xdefinecolor{purpleish}{cmyk}{0.75,0.75,0,0}
+
+% \usepackage{beamerinnertheme_______}
+% inner themes include circles, default, inmargin, rectangles, rounded
+
+%\usepackage{beamerouterthemesmoothbars}
+% outer themes include default, infolines, miniframes, shadow, sidebar, smoothbars, smoothtree, split, tree
+
+\useoutertheme[subsection=false]{smoothbars}
+
+% to have the same footer on all slides
+%\setbeamertemplate{footline}[text line]{xxx xxx xxx}
+%\setbeamertemplate{footline}[text line]{} % or empty footer
+
+% To replace the footer line in all slides with a simple slide count uncomment this line
+%\setbeamertemplate{footline}[page number] 
+
+% Current footer with author name & short name of the presentation & page number
+\makeatletter
+	\setbeamertemplate{footline} {
+	  \leavevmode%
+	  \hbox{%
+	  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+	    \usebeamerfont{author in head/foot}\insertshortauthor%~~\beamer@ifempty{\insertshortinstitute}{}{(\insertshortinstitute)}
+	  \end{beamercolorbox}%
+	  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+	    \usebeamerfont{title in head/foot}\insertshorttitle
+	  \end{beamercolorbox}%
+	   \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+	     \usebeamerfont{date in head/foot}\date{}\hspace*{2em}
+	     \insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+	   \end{beamercolorbox}}%
+	  \vskip0pt%
+	}
+\makeatother
+
+% Alligment to the bottom
+\newenvironment{bottompar}{\par\vspace*{\fill}}{\clearpage}
+
+% Applying underlying to the whole slides' headers in the presentation
+\let \oldframetitle \frametitle
+\renewcommand{\frametitle}[1] {\oldframetitle { \underline{#1}}}
+
+% include packages
+\usepackage{subfigure}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage[all,knot]{xy}
+\xyoption{arc}
+\usepackage{url}
+\usepackage{multimedia}
+\usepackage{hyperref}
+\usepackage{setspace}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Start of the content of the presentation.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{SAP HANA Tips \& Tricks}
+\subtitle{External connection to SAP HANA DB}
+\author{Viktor Dmitriyev}
+%\institute{\href{mailto:viktor.dmitriyev@uni-oldenburg.de}{viktor.dmitriyev@uni-oldenburg.de}}
+\institute{viktor.dmitriyev@uni-oldenburg.de}
+\date{Very Large Business Applications \\ University of Oldenburg \\ \vspace{.25cm} July 26, 2013}
+
+\begin{document}
+
+\frame{
+	\titlepage
+}
+
+\section[Agenda]{}
+	\frame{\frametitle{Agenda}
+			\tableofcontents
+		\href{https://github.com/vdmitriyev/saphana-demos-bi2course-vlba} {github link to demos}
+	}
+
+\section{Java \& JDBC}
+	\subsection{Connecting to SAP HANA database from JAVA}
+		\frame{\frametitle{Connecting to SAP HANA database from JAVA}
+			Connecting from Java to the SAP HANA DB:
+			\vspace{0.25cm}
+			\begin{itemize}
+				\item Prepare working environment:
+					\begin{itemize}
+						\item Install Java JDK (latest version).
+						\item Set 'CLASSPATH' to the driver provided by SAP \\ 
+							(\emph{can be extracted from publicly available SAP HANA client})
+					\end{itemize}
+				\item General algorithm:
+					\begin{itemize}
+						\item Connecting: Create java connection object with correct credentials
+						\item Pre-processing: Create prepared statement for sql
+						\item Running: Execute query and fetch result
+						\item Releasing: Close prepared statement and connection to database
+					\end{itemize}
+			\end{itemize}
+		}
+
+	\subsection{Demo for JDBC usage}
+		\frame{\frametitle{Demo for JDBC usage}
+			How to run demo example:
+			\vspace{0.25cm}
+			\begin{itemize}
+				\item Start from reading 'README.md'
+					\begin{itemize}
+						\item For 'Windows': run 'run\_win.bat'
+						\item For 'Linux': run './run\_linux' in terminal
+					\end{itemize}
+			\end{itemize}
+		}
+		
+\section{Python \& ODBC}
+	\subsection{Connecting to SAP HANA database from Python}
+		\frame{\frametitle{Connecting to SAP HANA database from Python}
+			Connecting from Python to the SAP HANA DB:
+			\vspace{0.25cm}
+			\begin{itemize}
+				\item Multiple options are available:
+				\begin{itemize}
+					\item Option  \#1: Using external ODBC driver (ex: pyodbc)
+					\item Option  \#2: Using build-in SAP HANA client (dbapi)
+				\end{itemize}
+			\end{itemize}
+		}
+		
+	\subsection{Demo for ODBC usage}
+		\frame{\frametitle{Demo for python usage}
+			How to run demo example:
+			\vspace{0.25cm}
+			\begin{itemize}
+				\item Start from reading 'README.md'
+				\item To run option \#1: 'run\_win\_option\_01.bat'
+				\item To run option \#2: 'run\_win\_option\_02.bat'
+				\item Compare result of outputs from both options
+			\end{itemize}
+		}
+		
+\section{MS Excel \& ODBO}
+	\subsection{Connecting to SAP HANA database from MS Excel}
+		\frame{\frametitle{Connecting to SAP HANA database from MS Excel}
+			Connecting from MS Excel to the SAP HANA DB:
+			\vspace{0.25cm}
+			\begin{itemize}
+				\item Most popular BI tool
+				\item Uses MDX 32bit driver (cubes)				
+			\end{itemize}
+		}
+		
+	\subsection{Demo for ODBO usage}
+		\frame{\frametitle{Demo for usage}
+			How to run demo example:
+			\vspace{0.25cm}
+			\begin{itemize}
+				\item Start from reading 'sap-hana-tips-excel.pdf'
+				\item Prepare SAP HANA instance (create analytical views)
+				\item Opening MS Excel
+				\item Retrieving data
+			\end{itemize}
+		}
+		
+\section*{}
+	\frame{
+		\begin{center}
+			\huge
+			\begin{bottompar}
+				{Thank you for attention!} \\
+				\vspace{0.50cm}				
+				{Any questions?}
+			\end{bottompar}
+		\end{center}
+	}
+
+\end{document}
+
+
